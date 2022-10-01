@@ -4,7 +4,7 @@ weight: 1
 bookCollapseSection: true
 ---
 
-# [MountSchool](mountschool.ru)
+# [MountSchool](http://mountschool.ru)
 
 2022-10-01 был доступен только используя VPN.
 
