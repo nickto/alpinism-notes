@@ -6,8 +6,6 @@ bookCollapseSection: true
 
 # Узлы
 
-
-
 ## Узлы для связывания двух веревок
 
 - [Прямой узел](./01_square-knot.md)
@@ -22,3 +20,11 @@ bookCollapseSection: true
 - [Восьмерка (одним концом вокруг опоры)](./12_figure-8-follow-through-loop-knot.md)
 - [Восьмерка с двойной петлей (заячьи уши)](./13_figure-8-double-loop-knot.md)
 - [Стремя одним концом вокруг опоры](./14_clove-hitch-knot-rope-end.md)
+
+## Узлы для страховки и подстраховки
+
+- [УИАА](./21_munters-hitch.md)
+- [Стремя в карабине](./22_clove-hitch-carabiner.md)
+- [Пруссик](./23_prussik.md)
+- [Австрийский схватывающий узел](./24_klemheist.md)
+- [Французский автоблок](./25_autoblock.md)
