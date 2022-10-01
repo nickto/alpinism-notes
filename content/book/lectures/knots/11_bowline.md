@@ -55,11 +55,13 @@ weight: 11
 
 {{< /columns >}}
 
-
-
 ### Видео
 
+{{< rawhtml >}}
+    <video width="640" height="360" controls src="https://www.dropbox.com/s/foszixjlsl4ngi5/bowline.mp4?raw=1"></video>
+{{< /rawhtml >}}
 
+[Скачать](https://www.dropbox.com/s/foszixjlsl4ngi5/bowline.mp4?dl=1)
 
 
 ### Ссылки
