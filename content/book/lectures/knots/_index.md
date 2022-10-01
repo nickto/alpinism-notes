@@ -21,4 +21,4 @@ bookCollapseSection: true
 - [Булинь](./11_bowline.md)
 - [Восьмерка (одним концом вокруг опоры)](./12_figure-8-follow-through-loop-knot.md)
 - [Восьмерка с двойной петлей (заячьи уши)](./13_figure-8-double-loop-knot.md)
-- [Стремя одним концом вокруг опоры](http://www.animatedknots.com/cloveend/index.php)
+- [Стремя одним концом вокруг опоры](./14_clove-hitch-knot-rope-end.md)
